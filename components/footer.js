@@ -26,6 +26,20 @@ export default function Footer() {
         <nav className="text-center mt-16">
           <Link
             className={linkStyles}
+            href="https://www.vnoc.com"
+          >
+            <Image
+              src="https://cdn.vnoc.com/logos/logo-vnoc4.png"
+              alt="VNOC"
+              data-tooltip-id="replicate-tooltip"
+              data-tooltip-content="A Server by VNOC"
+              className={imageStyles}
+              fill={true}
+              unoptimized={true}
+            />
+          </Link>    
+          <Link
+            className={linkStyles}
             href="https://replicate.com?utm_source=project&utm_campaign=scribblediffusion"
           >
             <Image
