@@ -1,9 +1,9 @@
 {
   "name": "scribble-diffusion",
-  "description": "Turn your sketch into a refined image using AI",
+  "description": "One of the servers by VNOC.com. Turn your sketch into a refined image using AI",
   "appName": "DigitalServer Scribble Diffusion AI",
-  "appSubtitle": "Turn your sketch into a refined image using AI",
-  "appMetaDescription": "Turn your sketch into a refined image using AI",
+  "appSubtitle": "One of the servers by VNOC.com. Turn your sketch into a refined image using AI",
+  "appMetaDescription": "One of the servers by VNOC.com. Turn your sketch into a refined image using AI",
   "version": "1.0.0",
   "private": true,
   "scripts": {
