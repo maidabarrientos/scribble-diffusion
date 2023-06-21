@@ -20,9 +20,23 @@ export default function Footer() {
           >
             Replicate
           </Link>
-          .
+          . Digital Server is a project of <Link className="underline" href="https://vnoc.com" target="_blank">VNOC.</LINK>
         </p>
-
+<nav className="text-center mt-16">
+          <Link
+            className={linkStyles}
+            href="https://replicate.com?utm_source=project&utm_campaign=scribblediffusion"
+          >
+            <Image
+              src="/logomarks/replicate.svg"
+              alt="Replicate"
+              data-tooltip-id="replicate-tooltip"
+              data-tooltip-content="Built by Replicate"
+              className={imageStyles}
+              fill={true}
+              unoptimized={true}
+            />
+          </Link>
         <nav className="text-center mt-16">
           <Link
             className={linkStyles}
