@@ -12,7 +12,7 @@ export default function Footer() {
     <footer className="mt-20">
       <div className="">
         <p className="text-center">
-          Scribble Diffusion is an open-source project from{" "}
+          DigitalServer is a proud member of VNOC/Contrib. Scribble Diffusion is an open-source project from{" "}
           <Link
             className="underline"
             href="https://replicate.com?utm_source=project&utm_campaign=scribblediffusion"
